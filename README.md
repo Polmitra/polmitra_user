@@ -1,6 +1,6 @@
 # user_app
 
-Polmitra User Application
+Polmitra Application
 
 ## Getting Started
 
